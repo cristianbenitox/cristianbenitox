@@ -7,7 +7,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________
 ### Interests
 |Category|Topic|
-|--------|-----------------------------------------|
+|--------|-----|-----------------------------------|
 |Hobbies|Singing, Running, Digital Art, Photography| 
 <!--
 **cristianbenitox/cristianbenitox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
