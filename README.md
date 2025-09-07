@@ -4,6 +4,9 @@
 _____________________________________________________________________________________________________________________
 ### About me
 - I love being outside, making music, reading, design, painting, paddle Boarding, etc...⚡🌱⚡
+_____________________________________________________________________________________________________________________
+### Interests
+|Hobbies|Singing, Running, Digital Art, Photography| 
 <!--
 **cristianbenitox/cristianbenitox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
