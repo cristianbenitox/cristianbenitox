@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - I love being outside, making music, reading, design, painting, paddle Boarding, etc...⚡🌱⚡
 _____________________________________________________________________________________________________________________
 ### Interests
-|Category|Topic |
+| Category | Topic |
 |--------|-----------------------------------------|
 |Hobbies|Singing, Running, Digital Art, Photography| 
 <!--
