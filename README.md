@@ -1,5 +1,8 @@
-## Hi there 👋
+## Haiii there, I'm Cristian! 👋
 
+- I'm just going with the flow, trying to build something, and if I can learn more in the world of           programming and coding, I hope to be able to put what I learn into my regular life. I am going down the    path of cybersecurity🌹🌼
+
+- I love being outside, making music, reading, design, painting, paddle Boarding, etc...⚡🌱⚡
 <!--
 **cristianbenitox/cristianbenitox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
